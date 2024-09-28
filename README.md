@@ -1,1 +1,1 @@
-# competitive-programming
+Solving all [Beecrowd](https://beecrowd.com/) problems

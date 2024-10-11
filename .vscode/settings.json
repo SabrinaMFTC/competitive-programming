@@ -3,6 +3,8 @@
         "map": "cpp",
         "ostream": "cpp",
         "iostream": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp"
     }
 }
